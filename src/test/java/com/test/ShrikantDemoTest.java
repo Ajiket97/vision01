@@ -11,8 +11,8 @@ public class ShrikantDemoTest {
 	public void test1() {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.myntra.com/");
-		String title = driver.getTitle();
-		boolean result = title.contains("Myntra");
+		String title1 = driver.getTitle();
+		boolean result = title1.contains("Myntra");
 		if (result) {
 			System.out.println("Test Case is Passed");
 		} else {
