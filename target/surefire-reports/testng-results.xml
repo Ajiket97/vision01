@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-10T11:36:03 IST" name="Surefire suite" finished-at="2024-05-10T11:36:26 IST" duration-ms="22579">
+  <suite started-at="2024-05-10T13:18:34 IST" name="Surefire suite" finished-at="2024-05-10T13:20:06 IST" duration-ms="91814">
     <groups>
     </groups>
-    <test started-at="2024-05-10T11:36:03 IST" name="Surefire test" finished-at="2024-05-10T11:36:26 IST" duration-ms="22579">
+    <test started-at="2024-05-10T13:18:34 IST" name="Surefire test" finished-at="2024-05-10T13:20:06 IST" duration-ms="91814">
       <class name="com.test.TestCase">
-        <test-method signature="verifyEmailAndPassRequriedOrNot()[pri:0, instance:com.test.TestCase@50b5ac82]" started-at="2024-05-10T11:36:03 IST" name="verifyEmailAndPassRequriedOrNot" finished-at="2024-05-10T11:36:11 IST" duration-ms="7733" status="PASS">
+        <test-method signature="verifyEmailAndPassRequriedOrNot()[pri:0, instance:com.test.TestCase@647fd8ce]" started-at="2024-05-10T13:18:35 IST" name="verifyEmailAndPassRequriedOrNot" finished-at="2024-05-10T13:18:56 IST" duration-ms="21739" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyEmailAndPassRequriedOrNot -->
-        <test-method signature="verifyMaritalStatusRequriedOrNot()[pri:0, instance:com.test.TestCase@50b5ac82]" started-at="2024-05-10T11:36:11 IST" name="verifyMaritalStatusRequriedOrNot" finished-at="2024-05-10T11:36:17 IST" duration-ms="5805" status="PASS">
+        <test-method signature="verifyMaritalStatusRequriedOrNot()[pri:0, instance:com.test.TestCase@647fd8ce]" started-at="2024-05-10T13:18:56 IST" name="verifyMaritalStatusRequriedOrNot" finished-at="2024-05-10T13:19:35 IST" duration-ms="39190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMaritalStatusRequriedOrNot -->
-        <test-method signature="verifyMobilenum()[pri:0, instance:com.test.TestCase@50b5ac82]" started-at="2024-05-10T11:36:17 IST" name="verifyMobilenum" finished-at="2024-05-10T11:36:26 IST" duration-ms="9020" status="PASS">
+        <test-method signature="verifyMobilenum()[pri:0, instance:com.test.TestCase@647fd8ce]" started-at="2024-05-10T13:19:35 IST" name="verifyMobilenum" finished-at="2024-05-10T13:20:06 IST" duration-ms="30847" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMobilenum -->
