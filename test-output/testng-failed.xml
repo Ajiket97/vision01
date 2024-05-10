@@ -5,7 +5,7 @@
     <classes>
       <class name="com.test.TestCase">
         <methods>
-          <include name="verifyMobilenum"/>
+          <include name="verifyEmailAndPassRequriedOrNot"/>
         </methods>
       </class> <!-- com.test.TestCase -->
     </classes>
